@@ -1,0 +1,21 @@
+{
+  "name": "Clinical Wellness Spa",
+  "short_name": "WellnessSpa",
+  "description": "Un coach del benessere personalizzato che fornisce approfondimenti e raccomandazioni.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0284C7",
+  "icons": [
+    {
+      "src": "images/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
